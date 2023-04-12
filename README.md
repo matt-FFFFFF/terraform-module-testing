@@ -8,7 +8,7 @@ It makes use of [Azure/terratest-terraform-fluent](https://github.com/Azure/terr
 Create a copy of this template repository and clone it to your local machine.
 Start with the [`level_01`](./level_01) directory.
 
-## Go
+## Go Skills
 
 It is recommended to take the Basics section of [Go Tour](https://go.dev/tour).
 
