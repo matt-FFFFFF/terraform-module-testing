@@ -3,6 +3,11 @@
 This instructional repo contains exercises for testing Terraform modules.
 It makes use of [Azure/terratest-terraform-fluent](https://github.com/Azure/terratest-terraform-fluent) to provide a fluent interface and more human readable code.
 
+## Quick start
+
+Create a copy of this template repository and clone it to your local machine.
+Start with the `level_01` directory and see the [README](./level_01/README.md) in there.
+
 ## Go
 
 It is recommended to take the Basics section of [Go Tour](https://go.dev/tour).
