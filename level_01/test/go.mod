@@ -3,7 +3,7 @@ module test
 go 1.20
 
 require (
-	github.com/Azure/terratest-terraform-fluent v0.2.0
+	github.com/Azure/terratest-terraform-fluent v0.2.1
 	github.com/stretchr/testify v1.8.2
 )
 
@@ -90,9 +90,9 @@ require (
 	gopkg.in/matryer/try.v1 v1.0.0-20150601225556-312d2599e12e // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
-	k8s.io/api v0.26.3 // indirect
-	k8s.io/apimachinery v0.26.3 // indirect
-	k8s.io/client-go v0.26.3 // indirect
+	k8s.io/api v0.27.0 // indirect
+	k8s.io/apimachinery v0.27.0 // indirect
+	k8s.io/client-go v0.27.0 // indirect
 	k8s.io/klog/v2 v2.90.1 // indirect
 	k8s.io/kube-openapi v0.0.0-20230327201221-f5883ff37f0c // indirect
 	k8s.io/utils v0.0.0-20230406110748-d93618cff8a2 // indirect
