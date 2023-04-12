@@ -11,13 +11,13 @@ You will need to edit the [module_test.go](./test/module_test.go) file.
 
 ## Task 1 - TestSimple
 
-Modify the TestSimple function to check the input attribute of the terraform_data.example resource is equal to "example".
+Modify the TestSimple function to check the `input` attribute of the `terraform_data.example` resource is equal to `"example"`.
 
 ## Task 2 - TestForEach
 
-Modify the TestForEach function to check the input attribute of the terraform_data.example_for_each resources is equal to the data in the map.
+Modify the TestForEach function to check the `input` attribute of the `terraform_data.example_for_each` resources is equal to the data in the map.
 
 ## Task 3 - TestCondition
 
-Add checks that the conditional resource is present and that the attribute is correct.
-Also add checks that the resource is not present when the condition is false.
+Add checks that the `terraform_data.example_condition` resource is present when `var.example_condition` is `true` and that the `input` attribute is correct.
+Also add checks that the `terraform_data.example_condition` resource is not present when `var.example_condition` is `false`.
