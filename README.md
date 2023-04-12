@@ -6,7 +6,7 @@ It makes use of [Azure/terratest-terraform-fluent](https://github.com/Azure/terr
 ## Quick start
 
 Create a copy of this template repository and clone it to your local machine.
-Start with the `level_01` directory and see the [README](./level_01/README.md) in there.
+Start with the [`level_01`](./level_01) directory.
 
 ## Go
 
