@@ -30,6 +30,6 @@ If you choose to use VSCode then the testing can be run from the IDE as shown in
 Tests can always be run from the command line, but debugging is more difficult:
 
 ```bash
-cd level_01/tests
+cd level_01/test
 go test -v -timeout 10m -run ^TestSimple
 ```
