@@ -12,7 +12,7 @@ You will need to edit the [module_test.go](./test/module_test.go) file.
 ## Terraform module
 
 Inspect the Terraform module that is in this directory.
-You will note that there are 3 resources, one resource is always deployed and the owhter two are controlled by the 2 variables.
+You will note that there are three resources. One resource is always deployed, with the other two controlled by the two input variables.
 One is a simple condition using a `bool`, the other is a `for_each` loop based on a `map` variable.
 
 ## Task
