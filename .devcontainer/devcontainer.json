@@ -1,0 +1,13 @@
+{
+  "name": "terraform-module-testing",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "golang.go"
+      ],
+      "settings": {
+        "git.enableCommitSigning": false
+      }
+    }
+  }
+}
