@@ -93,7 +93,7 @@ func TestForEach(t *testing.T) {
 	check.InPlan(test.Plan).NumberOfResourcesEquals(3).ErrorIsNil(t)
 
 	// How can we check the values of the terraform_data.example_for_each resources?
-	// hint: use a loop...
+	// hint: use a for loop...
 
 	t.Fail() // remove this once you have done!
 }

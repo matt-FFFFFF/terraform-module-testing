@@ -21,6 +21,12 @@ Check here: [download and install go](https://go.dev/doc/install)
 It is recommended to use an IDE with Go language support.
 VSCode is a great IDE, install the `golang.go` extension from Google on the [marketplace](https://marketplace.visualstudio.com/items?itemName=golang.Go).
 
+### GitHub Copilot
+
+GitHub Copilot is a new feature that uses machine learning to help you write code.
+It is available in VSCode and is a great way to learn Go.
+Add comments to your code to help Copilot understand what you are trying to do.
+
 ## Running the tests
 
 If you choose to use VSCode then the testing can be run from the IDE as shown in this image:
