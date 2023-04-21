@@ -3,7 +3,8 @@
   "customizations": {
     "vscode": {
       "extensions": [
-        "golang.go"
+        "golang.go",
+        "HashiCorp.terraform"
       ],
       "settings": {
         "git.enableCommitSigning": false
