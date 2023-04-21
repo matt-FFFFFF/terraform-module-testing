@@ -7,7 +7,7 @@ It will require some skills in Go, but the exercises are designed to be easy to 
 
 In these early examples the boilerplate code has been provided for you.
 
-You will need to edit the [module_test.go](./test/module_test.go) file.
+You will need to edit the [test/module_test.go](./test/module_test.go) file.
 
 ## Terraform module
 
