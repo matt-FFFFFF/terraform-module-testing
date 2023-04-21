@@ -12,14 +12,15 @@ Start with the [`level_01`](./level_01) directory.
 
 It is recommended to take the Basics section of [Go Tour](https://go.dev/tour).
 
-## Installing Go
+## Software pre-requisites
 
-Check here: [download and install go](https://go.dev/doc/install)
+- [install go](https://go.dev/doc/install)
+- [install terraform](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli)
 
 ## IDE
 
 It is recommended to use an IDE with Go language support.
-VSCode is a great IDE, install the `golang.go` extension from Google on the [marketplace](https://marketplace.visualstudio.com/items?itemName=golang.Go).
+VSCode is a great IDE and the recommended extensions have been included in this repository.
 
 ### GitHub Copilot
 
