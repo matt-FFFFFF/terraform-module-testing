@@ -6,10 +6,7 @@
         "GitHub.copilot",
         "golang.go",
         "HashiCorp.terraform"
-      ],
-      "settings": {
-        "git.enableCommitSigning": false
-      }
+      ]
     }
   },
   "hostRequirements": {

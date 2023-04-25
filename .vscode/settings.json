@@ -1,5 +1,4 @@
 {
-  "git.enableCommitSigning": false,
   "go.testFlags": [
     "-test.v"
   ],
